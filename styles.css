@@ -427,6 +427,15 @@ main {
     font-size: 15px;
 }
 
+.feedpost-body img{
+    width: 515px;
+    justify-content: center;
+    margin-top: 10px;
+}
+.feed-body span{
+    margin-right: 0.8rem
+}
+
 
 .widgets {
     position: sticky;
