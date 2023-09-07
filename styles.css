@@ -427,12 +427,13 @@ main {
     font-size: 15px;
 }
 
-.feedpost-body img{
+.feedpost-body img {
     width: 515px;
     justify-content: center;
     margin-top: 10px;
 }
-.feed-body span{
+
+.feed-body span {
     margin-right: 0.8rem
 }
 
@@ -492,4 +493,3 @@ main {
     font-size: 12px;
     color: gray;
 }
-
